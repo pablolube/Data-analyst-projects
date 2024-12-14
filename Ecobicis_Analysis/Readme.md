@@ -1,6 +1,6 @@
 # Análisis de Datos: EcoBicis CABA
 
-![EcoBici Banner](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ecobici_logo.svg/1200px-Ecobici_logo.svg.png)
+![EcoBici Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Ad17Ry6HR-vjCbOoEjJZRp6_QJ-l5bXZaw&s)
 
 ## Descripción del Proyecto
 Este proyecto analiza datos del sistema de bicicletas públicas **EcoBici** de la Ciudad de Buenos Aires. EcoBici es un sistema de bicicletas compartidas que funciona en la ciudad, permitiendo a los usuarios realizar viajes gratuitos tras un registro previo.
