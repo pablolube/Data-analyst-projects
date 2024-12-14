@@ -4,7 +4,7 @@
 
 ## Descripción del Proyecto
 Este proyecto analiza datos del sistema de bicicletas públicas **EcoBici** de la Ciudad de Buenos Aires. EcoBici es un sistema de bicicletas compartidas que funciona en la ciudad, permitiendo a los usuarios realizar viajes gratuitos tras un registro previo.
-
+``
 El objetivo del proyecto es explorar, limpiar y analizar los datos proporcionados por el [Portal de Datos Abiertos del Gobierno de la Ciudad de Buenos Aires](https://data.buenosaires.gob.ar/dataset/bicicletas-publicas) para obtener insights sobre los patrones de uso del sistema, como la duración de los viajes, el género de los usuarios y las estaciones más populares.
 
 ---
